@@ -45,8 +45,8 @@ Senior Software Engineer with **5+ years** building fault-tolerant, high-availab
 - ⚔️ **Grinding** — NeetCode or LeetCode daily
 - 🌱 **Exploring** — LLM tooling, AI infra, and agentic systems
   
-<img width="1246" height="687" alt="Leetcode Heatmap" src="https://github.com/user-attachments/assets/29931699-38ea-4c3e-8e78-b5947d52ca23" />
-<img width="2001" height="611" alt="Neetcode heatmap" src="https://github.com/user-attachments/assets/ae17f8d6-aff6-4040-8664-b0fa7cfe00f2" />
+<img width="1246" height="687" alt="Leetcode Heatmap" src="./Leetcode Heatmap.png" />
+<img width="2001" height="611" alt="Neetcode heatmap" src="./Neetcode heatmap.png" />
 
 ---
 
