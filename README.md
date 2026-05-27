@@ -24,6 +24,27 @@ Senior Software Engineer with **5+ years** building fault-tolerant, high-availab
 ⚙️ Specialization: Distributed backend Systems, Fault-Tolerant Architecture, Cloud-Native
 ```
 
+### Verified Badges
+ 
+<p align="left">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/VamsidharReddyPoothi-1958/6E4D70BBEF57DA9E?sharingId=B2BCA2C0AFFE25D6" target="_blank">
+    <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="AZ-900 Azure Fundamentals" width="100" />
+  </a>
+  
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/VamsidharReddyPoothi-1958/EE6F0DC23A86534D?sharingId=B2BCA2C0AFFE25D6" target="_blank">
+    <img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="AI-900 Azure AI Fundamentals" width="100" />
+  </a>
+  
+  <a href="https://www.credly.com/badges/d9074046-9bf0-4f0a-9091-ecccf6aaaea3/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png" alt="AWS Certified Cloud Practitioner" width="100" />
+  </a>
+  
+  <a href="https://www.credly.com/badges/23516378-d46d-418f-81b1-833058a76802/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/linkedin_thumb_image.png" alt="AWS Certified AI Practitioner" width="100" />
+  </a>
+</p>
+
+---
 ## ⚡ Fun Fact
 
 > _You have super memory… kind of. Your brain can store an estimated 2.5 million gigabytes of information—but it’s selective, which is why you forget where you put your keys._
@@ -71,15 +92,14 @@ Senior Software Engineer with **5+ years** building fault-tolerant, high-availab
 `React` `Node.js`
 
 ---
-
 ## ☁️ Cloud Certifications
 
 | Badge | Certification | Status |
 |-------|--------------|--------|
-| ✅ | Microsoft Azure Fundamentals (AZ-900) | Certified |
-| ✅ | Microsoft Azure AI Fundamentals (AI-900) | Certified |
-| ✅ | AWS Certified Cloud Practitioner | Certified |
-| ✅ | AWS Certified AI Practitioner | Certified |
+| ✅ | [Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/VamsidharReddyPoothi-1958/6E4D70BBEF57DA9E?sharingId=B2BCA2C0AFFE25D6) | Certified |
+| ✅ | [Microsoft Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/api/credentials/share/en-us/VamsidharReddyPoothi-1958/EE6F0DC23A86534D?sharingId=B2BCA2C0AFFE25D6) | Certified |
+| ✅ | [AWS Certified Cloud Practitioner](https://www.credly.com/badges/d9074046-9bf0-4f0a-9091-ecccf6aaaea3/public_url) | Certified |
+| ✅ | [AWS Certified AI Practitioner](https://www.credly.com/badges/23516378-d46d-418f-81b1-833058a76802/public_url) | Certified |
 | ⏳ | AWS Certified Developer – Associate | In Progress |
 
 ---
@@ -102,7 +122,7 @@ Senior Software Engineer with **5+ years** building fault-tolerant, high-availab
 
 ---
 
-## 🔗 Find Me
+## 🔗 Let's Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/vamsidhar-reddy-poothi">
@@ -111,7 +131,7 @@ Senior Software Engineer with **5+ years** building fault-tolerant, high-availab
   <a href="https://leetcode.com/u/Vamsidhar12/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="mailto:vamsidhar.reddy1207@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=vamsidhar.reddy1207@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/vamsidhar12/vamsidhar12/raw/main/Vamsi_Resume.pdf">
