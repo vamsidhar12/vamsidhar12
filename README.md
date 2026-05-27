@@ -26,7 +26,7 @@ Senior Software Engineer with **5+ years** building fault-tolerant, high-availab
 
 ## ⚡ Fun Fact
 
-> _I once traced a production outage to a single misconfigured NSG rule across 1,300+ servers. Zero-downtime fix. Infinite satisfaction._
+> _You have super memory… kind of. Your brain can store an estimated 2.5 million gigabytes of information—but it’s selective, which is why you forget where you put your keys._
 
 ---
 
@@ -46,7 +46,6 @@ Senior Software Engineer with **5+ years** building fault-tolerant, high-availab
 - 🌱 **Exploring** — LLM tooling, AI infra, and agentic systems
   
 <img width="1246" height="687" alt="Leetcode Heatmap" src="https://github.com/user-attachments/assets/29931699-38ea-4c3e-8e78-b5947d52ca23" />
-
 <img width="2001" height="611" alt="Neetcode heatmap" src="https://github.com/user-attachments/assets/ae17f8d6-aff6-4040-8664-b0fa7cfe00f2" />
 
 ---
@@ -86,6 +85,11 @@ Senior Software Engineer with **5+ years** building fault-tolerant, high-availab
 ---
 
 ## 📈 GitHub Stats
+<!-- These SVGs are auto-generated daily by GitHub Actions — no broken external links -->
+<p align="center">
+  <img src="./profile/stats.svg" height="150" alt="GitHub Stats"/>
+  <img src="./profile/top-langs.svg" height="150" alt="Top Languages"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vamsidhar12&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
@@ -110,7 +114,7 @@ Senior Software Engineer with **5+ years** building fault-tolerant, high-availab
   <a href="mailto:vamsidhar.reddy1207@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="./Vamsi_Resume.pdf">
+  <a href="https://github.com/vamsidhar12/vamsidhar12/raw/main/Vamsi_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-Download-238636?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
