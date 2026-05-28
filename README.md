@@ -9,6 +9,9 @@
   <img src="https://komarev.com/ghpvc/?username=Vamsidhar12&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
+## 💼 Open To
+Mid-level/Senior SWE roles focused on **distributed systems**, **cloud-native backend**, or **platform engineering**. (Open to relocate within the US)
+
 ## 🧑‍💻 About Me
 
 > 🚀 I don't just write code — I build systems that stay up when everything else falls apart.
@@ -19,15 +22,13 @@ Senior Software Engineer with **5+ years** building fault-tolerant, high-availab
 
 ```
 📍 Dallas, TX, USA
-🏢 Ex-Microsoft | Ex-Paycom
+🏢 Ex-Microsoft | Ex-Paycom | Ex-TCS
 📫 Reach me: vamsidhar.reddy1207@gmail.com
 🎓 M.S. Computer Science — Texas Tech University (GPA: 4.0/4.0)
 🎓 B.Tech. Computer Science — Andhra University (GPA: 8.0/10.0)
 ⚙️ Specialization: Distributed backend Systems, Fault-Tolerant Architecture, Cloud-Native
+🎮  When not coding: cricket, chess, lost in PS5, or convincing myself I'll sleep early
 ```
-## 💼 Open To
-Mid-level/Senior SWE roles focused on **distributed systems**, **cloud-native backend**, or **platform engineering**.  
-Remote-friendly. Based in Dallas, TX. (Open to relocate within US)
 
 ---
 
@@ -54,13 +55,12 @@ Remote-friendly. Based in Dallas, TX. (Open to relocate within US)
 ---
 ## ⚡ Fun Fact
 
-> _I moved from India to Texas, scored a 4.0 MS GPA, and still find time to grind LeetCode at midnight._
+> _I've spent 5 years making systems resilient to failure. My coffee order, however, has a single point of failure._
 
----
 ## 🧠 Currently Obsessing Over
 - How agentic AI systems fail gracefully (or don't)
 - The gap between "certified in cloud" and "architecting for production."  
-- Why distributed systems are just trust issues with computers
+- Why are distributed systems a trust issue with computers
 
 ---
 
@@ -76,7 +76,7 @@ Remote-friendly. Based in Dallas, TX. (Open to relocate within US)
 ## 🔭 What I'm Up To
 
 - 🏗️ **Building** — Personal portfolio site _(shipped with Claude Code, coming very soon!)_
-- 📚 **AWS Dev Associate** — targeting cert by July 2026
+- 📚 **AWS Dev Associate**  🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜ (Targeting cert by July 2026)
 - ⚔️ **NeetCode 150** — halfway through blind 75
 - 🌱 **Exploring** — LLM tooling, AI infra, and agentic systems
   
@@ -84,26 +84,50 @@ Remote-friendly. Based in Dallas, TX. (Open to relocate within US)
 <img width="2001" height="611" alt="Neetcode heatmap" src="./Neetcode heatmap.png" />
 
 ---
-
 ## 🛠️ Tech Stack
 
-**Core:**
-`C# / .NET Core` `Java` `Python` `TypeScript` `JavaScript (ES6+)` `C++`
+**Languages**
 
-**Cloud & Infrastructure:**
-`Azure` `AWS` `Kubernetes (AKS)` `Docker` `IaC` `Redis` `CosmosDB` `Blob Storage` `Key Vault`
+![C#](https://img.shields.io/badge/C%23-.NET_Core-7B5EA7?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Security:**
-`OAuth 2.0` `JWT` `MSAL` `Proof-of-Possession (PoP)` `mTLS` `NSG`
+**Cloud & Infrastructure**
 
-**DevOps & Observability:**
-`CI/CD` `Azure DevOps` `YAML Pipelines` `Grafana` `Application Insights`
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![IaC](https://img.shields.io/badge/IaC-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![CosmosDB](https://img.shields.io/badge/CosmosDB-003087?style=flat-square&logo=microsoftazure&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**Databases:**
-`SQL Server` `PostgreSQL` `MySQL` `Redis` `CosmosDB`
+**Databases**
 
-**Frontend:**
-`React` `Node.js`
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Security**
+
+![OAuth2](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![mTLS](https://img.shields.io/badge/mTLS-2d5986?style=flat-square&logo=letsencrypt&logoColor=white)
+
+**DevOps & Observability**
+
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![App Insights](https://img.shields.io/badge/App_Insights-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ---
 ## ☁️ Cloud Certifications
