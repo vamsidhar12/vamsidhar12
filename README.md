@@ -1,12 +1,12 @@
 <!-- Typing SVG header -->
 <p align="center">
-  <a href="https://github.com/VamsidharPoothi">
+  <a href="https://github.com/Vamsidhar12">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Vamsidhar+Reddy+Poothi;Senior+Software+Engineer;Distributed+Systems+%7C+Cloud-Native+%7C+Azure+%26+AWS;5%2B+years+building+at+production+scale" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=VamsidharPoothi&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Vamsidhar12&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ## 🧑‍💻 About Me
