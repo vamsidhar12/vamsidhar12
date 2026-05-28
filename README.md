@@ -11,6 +11,8 @@
 
 ## 🧑‍💻 About Me
 
+> 🚀 I don't just write code — I build systems that stay up when everything else falls apart.
+
 Senior Software Engineer with **5+ years** building fault-tolerant, high-availability distributed systems at production scale.
 
 > 🌐 **Portfolio:** `coming soon` — building with [Claude Code](https://claude.ai/code) 🚀
@@ -18,11 +20,16 @@ Senior Software Engineer with **5+ years** building fault-tolerant, high-availab
 ```
 📍 Dallas, TX, USA
 🏢 Ex-Microsoft | Ex-Paycom
-📫 Reach me **vamsidhar.reddy1207@gmail.com**
+📫 Reach me: vamsidhar.reddy1207@gmail.com
 🎓 M.S. Computer Science — Texas Tech University (GPA: 4.0/4.0)
 🎓 B.Tech. Computer Science — Andhra University (GPA: 8.0/10.0)
 ⚙️ Specialization: Distributed backend Systems, Fault-Tolerant Architecture, Cloud-Native
 ```
+## 💼 Open To
+Mid-level/Senior SWE roles focused on **distributed systems**, **cloud-native backend**, or **platform engineering**.  
+Remote-friendly. Based in Dallas, TX. (Open to relocate within US)
+
+---
 
 ### Verified Badges
  
@@ -47,11 +54,18 @@ Senior Software Engineer with **5+ years** building fault-tolerant, high-availab
 ---
 ## ⚡ Fun Fact
 
-> _You have super memory… kind of. Your brain can store an estimated 2.5 million gigabytes of information—but it’s selective, which is why you forget where you put your keys._
+> _I moved from India to Texas, scored a 4.0 MS GPA, and still find time to grind LeetCode at midnight._
+
+---
+## 🧠 Currently Obsessing Over
+- How agentic AI systems fail gracefully (or don't)
+- The gap between "certified in cloud" and "architecting for production."  
+- Why distributed systems are just trust issues with computers
 
 ---
 
-## 📊 Impact @ Scale
+## 💥 By the Numbers
+> Real production impact, not classroom simulations.
 
 | 🖥️ Prod Servers Managed | ⚡ MTTD Improvement | 📈 App Perf Boost | 🛡️ Vulnerabilities Remediated |
 |:-:|:-:|:-:|:-:|
@@ -62,8 +76,8 @@ Senior Software Engineer with **5+ years** building fault-tolerant, high-availab
 ## 🔭 What I'm Up To
 
 - 🏗️ **Building** — Personal portfolio site _(shipped with Claude Code, coming very soon!)_
-- 📚 **Studying** — AWS Developer Associate certification
-- ⚔️ **Grinding** — NeetCode or LeetCode daily
+- 📚 **AWS Dev Associate** — targeting cert by July 2026
+- ⚔️ **NeetCode 150** — halfway through blind 75
 - 🌱 **Exploring** — LLM tooling, AI infra, and agentic systems
   
 <img width="1246" height="687" alt="Leetcode Heatmap" src="./Leetcode Heatmap.png" />
