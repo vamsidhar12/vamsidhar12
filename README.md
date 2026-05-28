@@ -1,7 +1,7 @@
 <!-- Typing SVG header -->
 <p align="center">
   <a href="https://github.com/Vamsidhar12">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Vamsidhar+Reddy+Poothi;Senior+Software+Engineer;Distributed+Systems+%7C+Cloud-Native+%7C+Azure+%26+AWS;5%2B+years+building+at+production+scale" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=3FB950&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Vamsidhar+Reddy+Poothi;%F0%9F%9A%80+I+don't+just+write+code+-+I+build+systems+that+stay+up+when+everything+else+falls+apart." alt="Typing SVG" />
   </a>
 </p>
 
@@ -9,12 +9,10 @@
   <img src="https://komarev.com/ghpvc/?username=Vamsidhar12&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
-## 💼 Open To
-Mid-level/Senior SWE roles focused on **distributed systems**, **cloud-native backend**, or **platform engineering**. (Open to relocate within the US)
+## 🟢 Open to
+💼 Mid-level/Senior SWE roles focused on **distributed systems**, **cloud-native backend**, or **platform engineering**. (Open to relocate within the US)
 
 ## 🧑‍💻 About Me
-
-> 🚀 I don't just write code — I build systems that stay up when everything else falls apart.
 
 Senior Software Engineer with **5+ years** building fault-tolerant, high-availability distributed systems at production scale.
 
@@ -84,11 +82,12 @@ Senior Software Engineer with **5+ years** building fault-tolerant, high-availab
 <img width="2001" height="611" alt="Neetcode heatmap" src="./Neetcode heatmap.png" />
 
 ---
+
 ## 🛠️ Tech Stack
 
 **Languages**
 
-![C#](https://img.shields.io/badge/C%23-.NET_Core-7B5EA7?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -101,9 +100,26 @@ Senior Software Engineer with **5+ years** building fault-tolerant, high-availab
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![IaC](https://img.shields.io/badge/IaC-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![CosmosDB](https://img.shields.io/badge/CosmosDB-003087?style=flat-square&logo=microsoftazure&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Terraform](https://img.shields.io/badge/IaC-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![CosmosDB](https://img.shields.io/badge/CosmosDB-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Blob Storage](https://img.shields.io/badge/Blob_Storage-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Key Vault](https://img.shields.io/badge/Key_Vault-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Security**
+
+![OAuth2](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![MSAL](https://img.shields.io/badge/MSAL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![mTLS](https://img.shields.io/badge/mTLS-2d5986?style=flat-square&logo=letsencrypt&logoColor=white)
+![PoP](https://img.shields.io/badge/Proof--of--Possession-5C2D91?style=flat-square&logo=microsoftazure&logoColor=white)
+![NSG](https://img.shields.io/badge/NSG-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**DevOps & Observability**
+
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-YAML_Pipelines-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![App Insights](https://img.shields.io/badge/Application_Insights-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 **Databases**
 
@@ -111,18 +127,7 @@ Senior Software Engineer with **5+ years** building fault-tolerant, high-availab
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Security**
-
-![OAuth2](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![mTLS](https://img.shields.io/badge/mTLS-2d5986?style=flat-square&logo=letsencrypt&logoColor=white)
-
-**DevOps & Observability**
-
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![App Insights](https://img.shields.io/badge/App_Insights-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![CosmosDB](https://img.shields.io/badge/CosmosDB-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 **Frontend**
 
@@ -130,6 +135,7 @@ Senior Software Engineer with **5+ years** building fault-tolerant, high-availab
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ---
+
 ## ☁️ Cloud Certifications
 
 | Badge | Certification | Status |
@@ -160,7 +166,7 @@ Senior Software Engineer with **5+ years** building fault-tolerant, high-availab
 
 ---
 
-## 🔗 Let's Connect
+## 🔗 Find Me
 
 <p align="left">
   <a href="https://linkedin.com/in/vamsidhar-reddy-poothi">
