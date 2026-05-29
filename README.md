@@ -16,11 +16,7 @@
 
 Senior Software Engineer with **5+ years** building fault-tolerant, high-availability distributed systems at production scale.
 
-> 🌐 **Portfolio:**  🚀 [https://vamsidharreddy.vercel.app](https://vamsidharreddy.vercel.app/#/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge)](https://vamsidharreddy.vercel.app/)
-<a href="https://vamsidharreddy.vercel.app/" target="_blank">
-  🌐 View Live Site
-</a>
+> 🌐 **Portfolio:**  🚀 [https://vamsidharreddy.vercel.app](https://vamsidharreddy.vercel.app)
 
 ```
 📍 Dallas, TX, USA
